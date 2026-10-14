@@ -11,10 +11,26 @@ Everything happens on **your own Mac**. Your emails and receipts are not sent an
 
 ## What you need
 
-- A **Mac** (not a Windows computer, not an iPad).
-- About **30 minutes**, and an internet connection.
+You **don't** need anything technical: no extra programs, no typing commands. Swarm the Farm gets everything it
+needs by itself. Just check these four things first:
+
+1. **A newer Mac, with an "M" chip.** Click the **Apple** at the top left of your screen, then **About This Mac**.
+   Next to **Chip** it should say **Apple M1**, **M2**, **M3**, **M4** (or newer).
+   *If it says Intel, this Mac is too old for Swarm the Farm, sorry.*
+2. **macOS Sonoma or newer.** In the same window, the big name at the top should say **Sonoma**, **Sequoia**, or
+   something newer. *If it's older, update first: Apple menu › System Settings › General › Software Update.*
+3. **Free space: about 10 to 30 GB.** Apple menu › **About This Mac** › **More Info…** › **Storage**. You need about
+   **10 GB** free on a small Mac, up to **30 GB** on a big one. *Not enough? Empty the Trash and delete old downloads.*
+4. **You can install apps.** If you're the one who set up this Mac, you can. *On a work or school Mac, you may need
+   the person who looks after it.*
+
+Also have ready:
+
+- About **30 minutes**, and an internet connection (the first setup downloads a lot).
 - **Your Mac's password**: the one you type when you turn the Mac on. The Mac may ask for it once.
-- Your **email (Gmail)** password, in case Google asks you to sign in.
+- Your **Gmail** password, in case Google asks you to sign in.
+
+Swarm the Farm checks these things too, and tells you in plain words if something's missing.
 
 ---
 
