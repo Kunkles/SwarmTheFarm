@@ -69,12 +69,16 @@ It has three parts, numbered **1**, **2** and **3**. The next parts of this page
 Look for **"1. Your claim"** at the top of the Set Up window.
 
 - **Date of the loss:** the day of the fire, flood or storm. Click the date and type it, or use the little arrows.
-- **What happened:** a few words, like *our house burned in a wildfire*.
+  *The date it shows at first is just today's date.* An orange note stays under it until you pick the real one.
+- **What happened:** a few words, like *our house burned in a wildfire*. (You can leave it empty.)
 - **Your insurers:** the name of your insurance company, like *State Farm*. (Payments **from** them aren't receipts,
   so the app knows to leave them out.)
 - **Your own businesses:** only if you have one. Otherwise leave it empty.
 
 It saves by itself as you type. You'll see the word **Saved**.
+
+> If you click **Done** without picking the date, it asks you first. Click **Pick the Date** and fill it in.
+> (If you don't know the date yet, **Close Anyway** is fine: Set Up opens again next time.)
 
 ---
 
