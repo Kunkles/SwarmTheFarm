@@ -106,7 +106,8 @@ You can close Ollama's own window.
 In the **Set Up** window, look for **"3. Your accounts"**.
 
 - Next to **Gmail**, click **Connect**. Your web browser opens a Google page. Pick your email, then click
-  **Continue** or **Allow**. (Google may say it *"hasn't verified this app"*: that's expected, click **Continue**.)
+  **Continue** or **Allow**. (Google may say it *"hasn't verified this app"*: that's expected. Click **Continue**, or
+  if you only see **Advanced**, click it and then **Go to Swarm the Farm**.)
   Swarm the Farm can only **read** your email. It can't send, change or delete anything.
 - Next to **Amazon**, click **Connect**. A window opens on Amazon. Sign in the way you always do. The window closes by
   itself when you're in.
@@ -130,9 +131,9 @@ When it's done, click **Export** (the square with an arrow) to make the file for
 
 | What you see | What to do |
 |---|---|
-| *"can't be opened because Apple cannot check it"* | In **Applications**, hold the **Control** key, click the app, choose **Open**, then **Open** again. |
+| The Mac says it *can't be opened* | Click the **Apple** at the top left › **System Settings** › **Privacy & Security**. Scroll down and click **Open Anyway** next to the app's name, then **Open**. |
 | No llama at the top of the screen | Open **Applications** and double-click **Ollama**. |
-| "Set Up" says not enough memory, or it's very slow | In Set Up, choose **Light** instead, and click **Set Up** again. |
+| Reading receipts is very slow, or the Mac gets hot | **File** › **Set Up…**, choose **Light**, and click **Set Up** again. |
 | Google says the app is *"blocked"* or *"only for testers"* | Ask the person who sent you this app to add your email address. |
 | Anything else | Quit Swarm the Farm (top left: **Swarm the Farm** › **Quit**) and open it again. That fixes most things. |
 
