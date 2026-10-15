@@ -254,6 +254,9 @@ Click the **magnifying glass** button at the top (**Find Receipts**), then click
 To look at only some dates, use **Showing** just above the list: pick *Since the loss*, a year or a month, or
 *Custom range…*. Click **✕** to see everything again.
 
+Don't want a receipt? Right-click it and choose **Delete** (or press the Delete key). Nothing is ever thrown away:
+it goes to **Deleted** in the list on the left, and **Put Back** returns it.
+
 When it's done, click **Export** (the square with an arrow) to make the file for your insurance adjuster.
 
 **More than one claim?** Click **File** › **New Project…**. Each project keeps its own receipts. Switch between them
