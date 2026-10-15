@@ -221,11 +221,13 @@ In the **Set Up** window, scroll down to **"3. Your accounts"**.
   **Advanced**, click it and then **Go to Swarm the Farm**.)
   Swarm the Farm can only **read** your email. It can't send, change or delete anything.
 - **Amazon:** click **Connect**. A new window opens with instructions. Click **Continue to Amazon** and sign in
-  **in that window** (not your usual web browser), the way you always do.
+  **in that window** (not your usual web browser), the way you always do. Amazon's page says *Sign in or create
+  account*: type the email you already use for Amazon. Don't make a new account.
+  > If a box pops up saying **No passkeys available**, click **Close**, then type your password.
   > If Amazon asks you to **make a new password**, that's normal: Amazon is being careful with a new window. Make
   > one there, then sign in with it.
 
-  When you see **Your Orders**, you're done. The window closes by itself, and Amazon gets a green check mark.
+  When you're in, the window says **Amazon is connected** and closes by itself, and Amazon gets a green check mark.
 
 Then click **Done** at the bottom of the Set Up window.
 
@@ -248,6 +250,9 @@ Click the **magnifying glass** button at the top (**Find Receipts**), then click
 
 > Need to stop? Click **Stop**, or just quit. Next time you open **Find Receipts** it asks: **Continue** (picks up
 > where it stopped) or **Start Over**. Continue is already picked.
+
+To look at only some dates, use **Showing** just above the list: pick *Since the loss*, a year or a month, or
+*Custom range…*. Click **✕** to see everything again.
 
 When it's done, click **Export** (the square with an arrow) to make the file for your insurance adjuster.
 
