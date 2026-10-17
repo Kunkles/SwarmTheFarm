@@ -263,6 +263,11 @@ it goes to **Deleted** in the list on the left, and **Put Back** returns it.
 
 When it's done, click **Export** (the square with an arrow) to make the file for your insurance adjuster.
 
+**What has your insurer paid?** Click **Payments** (under *Insurance* on the left). It lists the payments your
+insurance company has made you, read from their emails, and adds them up by coverage (your house, your belongings,
+living expenses) next to what you've spent. Check them: anything can be changed or left out, and you can add a check
+that came by mail. (Your insurance company's name goes in Set Up, under *Your insurers*.)
+
 **More than one claim?** Click **File** › **New Project…**. Each project keeps its own receipts. Switch between them
 with the folder button at the top left, or **File** › **Projects…**.
 
