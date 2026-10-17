@@ -273,6 +273,7 @@ with the folder button at the top left, or **File** › **Projects…**.
 | Reading receipts is very slow, or the Mac gets hot | **File** › **Set Up…**, choose **Light**, and click **Set Up** again. |
 | Google says the app is *"blocked"* or *"only for testers"* | Ask the person who sent you this app to add your email address. |
 | The Set Up window comes back when you open the app | The **Date of the loss** isn't filled in yet. Fill it in (Part 2). |
+| Something went wrong and you're not sure what | Click **Help** › **Report a Problem…** (or the **Report a Problem…** button next to the error). Type what happened, click **Copy**, and paste it into a reply to the email you got Swarm the Farm from. It doesn't include your emails, passwords or sign-ins. |
 | Anything else | Quit Swarm the Farm (top left: **Swarm the Farm** › **Quit**) and open it again. That fixes most things. |
 
 Swarm the Farm updates itself. When a new version is ready, it asks you; just click **Install and Restart**.
