@@ -251,6 +251,10 @@ Click the **magnifying glass** button at the top (**Find Receipts**), then click
 > Need to stop? Click **Stop**, or just quit. Next time you open **Find Receipts** it asks: **Continue** (picks up
 > where it stopped) or **Start Over**. Continue is already picked.
 
+Receipts dated **before your loss** are left out of the export (utility bills from the year before are kept, because
+adjusters ask for them). If one might belong anyway, like an old receipt in an email you sent after the loss, it's in
+**Needs a Look** for you to decide.
+
 To look at only some dates, use **Showing** just above the list: pick *Since the loss*, a year or a month, or
 *Custom range…*. Click **✕** to see everything again.
 
