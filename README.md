@@ -137,6 +137,11 @@ much memory your Mac has.
 > **The bar looks stuck?** That's normal. It sometimes sits still for several minutes, especially near the start
 > and near the end. Only worry if nothing at all has changed for **30 minutes**.
 
+> **If the internet drops,** you'll see *The connection dropped. Picking it up where it left off…*. That's fine:
+> Swarm the Farm waits a moment and carries on from where it stopped, by itself, several times. The part already
+> downloaded is kept. While Set Up runs, your Mac won't go to sleep by itself (closing the lid still sleeps it), and
+> you'll get a notification when it's ready.
+
 **While it's working, you might see these. They're all normal:**
 
 - A little **llama** picture appears at the very top of your screen, near the clock. That's Ollama, switched on.
@@ -169,10 +174,10 @@ Find the words you see, then do what the right-hand side says.
 | **Red:** *This Mac account isn't allowed to install apps…* | You're on an account that can't install programs. Ask the person who looks after this Mac to sign in to their own account, open Swarm the Farm, and click **Set Up** once. After that it works on your account too. |
 | **Red:** *Not enough free space…* | Pick a smaller size (**Light** is the smallest), or make room: empty the **Trash** and delete old files in **Downloads**, then try again. |
 | **Orange:** *…is meant for Macs with more memory…* | Pick the size that says **Recommended for this Mac**. |
-| *Installing Ollama failed…* | Usually the internet dropped. Check your Wi-Fi and click **Set Up** again. If it fails twice, install Ollama yourself (just below). |
+| *Installing Ollama failed…* | It already tried several times by itself. Check your Wi-Fi and click **Set Up** again. If it fails again, install Ollama yourself (just below). |
 | *The download isn't signed by Ollama, so it wasn't installed.* | Something went wrong with the download (often a work or hotel Wi-Fi). Try again later, on home Wi-Fi, or install Ollama yourself (just below). |
 | *Ollama didn't start. Open Ollama from Applications, then try again.* | Open **Applications**, double-click **Ollama**, wait for the llama at the top of the screen, then click **Set Up** again. |
-| A red message during *Downloading…*, or nothing has changed for 30 minutes | Check your Wi-Fi, then click **Set Up** again. **Nothing is lost:** it carries on from where it stopped, it doesn't start the big download over. |
+| A red message during *Downloading…* (it says the download kept stopping), or nothing has changed for 30 minutes | It already picked the download up again several times by itself. Check your Wi-Fi, then click **Set Up** again. **Nothing is lost:** it carries on from where it stopped, it doesn't start the big download over. |
 | The Mac went to sleep, or the lid was closed | Open it, then click **Set Up** again. It carries on from where it stopped. |
 | It says **Ready**, but later the app says it can't reach Ollama | Ollama got switched off. Open **Applications**, double-click **Ollama**. |
 
