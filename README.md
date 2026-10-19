@@ -268,10 +268,19 @@ it goes to **Deleted** in the list on the left, and **Put Back** returns it.
 
 When it's done, click **Export** (the square with an arrow) to make the file for your insurance adjuster.
 
-**What has your insurer paid?** Click **Payments** (under *Insurance* on the left). It lists the payments your
-insurance company has made you, read from their emails, and adds them up by coverage (your house, your belongings,
-living expenses) next to what you've spent. Check them: anything can be changed or left out, and you can add a check
-that came by mail. (Your insurance company's name goes in Set Up, under *Your insurers*.)
+**Your insurance: the Coverages side.** At the top of the window there are two buttons: **Receipts** (everything
+above) and **Coverages**. Click **Coverages** to see your insurance.
+
+- **Your Policy.** Insurance companies often send one long booklet with every option they sell. Drag it onto
+  **Your Policy**, with any endorsements and your **declarations page** (the pages that list your coverages and
+  limits). Swarm the Farm keeps only the parts that are on your policy, shows your limits next to them, and warns
+  you if your declarations page lists a document you haven't added. You can type a question about your policy too,
+  and click **Print…** or **Save as PDF…** to keep a copy.
+  *This helps you find your way around your policy. It isn't legal advice: your full policy is what counts.*
+- **Payments.** The payments your insurance company has made you, read from their emails, added up by coverage
+  (your house, your belongings, living expenses) next to what you've spent, and, once you've added your policy, each
+  coverage's limit and what's left. Check them: anything can be changed or left out, and you can add a check that
+  came by mail. (Your insurance company's name goes in Set Up, under *Your insurers*.)
 
 **More than one claim?** Click **File** › **New Project…**. Each project keeps its own receipts. Switch between them
 with the folder button at the top left, or **File** › **Projects…**.
