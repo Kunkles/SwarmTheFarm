@@ -274,13 +274,15 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
 - **Your Policy.** Insurance companies often send one long booklet with every option they sell. Drag it onto
   **Your Policy**, with any endorsements and your **declarations page** (the pages that list your coverages and
   limits). Swarm the Farm keeps only the parts that are on your policy, shows your limits next to them, and warns
-  you if your declarations page lists a document you haven't added. Click **Print…** or **Save as PDF…** to keep a
-  copy.
+  you if your declarations page lists a document you haven't added. For State Farm, **Get It** next to a missing
+  form downloads State Farm's standard wording of it from their website (only the form number is sent). Your
+  insurance company is at the top of the page. Click **Print…** or **Save as PDF…** to keep a copy.
   *This helps you find your way around your policy. It isn't legal advice: your full policy is what counts.*
 - **Payments.** The payments your insurance company has made you, read from their emails, added up by coverage
   (your house, your belongings, living expenses) next to what you've spent, and, once you've added your policy, each
-  coverage's limit and what's left. Check them: anything can be changed or left out, and you can add a check that
-  came by mail. (Your insurance company's name goes in Set Up, under *Your insurers*.)
+  coverage's limit and what's left. Click a payment to see the email or letter it came from on the right, and to
+  change it, leave it out, or delete it (**Show Deleted**, below the list, brings it back). You can add a check that
+  came by mail too. (Your insurance company's name goes in Set Up, under *Your insurers*.)
 - **Ask about your policy.** Type a question in your own words, like *How long will it pay for a place to live?*
   The answer comes from your policy's own words, with links to the parts it used. It takes about half a minute.
   You can ask follow-up questions, and everything you ask is kept, so you can scroll back to it later.
