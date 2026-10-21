@@ -281,8 +281,9 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
 - **Payments.** The payments your insurance company has made you, read from their emails, added up by coverage
   (your house, your belongings, living expenses) next to what you've spent, and, once you've added your policy, each
   coverage's limit and what's left. Click a payment to see the email or letter it came from on the right, and to
-  change it, leave it out, or delete it (**Show Deleted**, below the list, brings it back). You can add a check that
-  came by mail too. (Your insurance company's name goes in Set Up, under *Your insurers*.)
+  change it, leave it out, or delete it (**Show Deleted**, below the list, brings it back). Tick **Hide duplicates**
+  to hide the ones left out because they repeat another (the same payment in another email, an older total). You
+  can add a check that came by mail too. (Your insurance company's name goes in Set Up, under *Your insurers*.)
 - **Ask about your policy.** Type a question in your own words, like *How long will it pay for a place to live?*
   The answer comes from your policy's own words, with links to the parts it used. It takes about half a minute.
   You can ask follow-up questions, and everything you ask is kept, so you can scroll back to it later.
