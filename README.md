@@ -288,7 +288,8 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   list, brings it back). Only your insurance company's own emails count: the same payments
   retold by someone else (a forward, your adjuster, the lender) are listed as *From someone else: not counted*, so
   you can tick one if it should count. A payment your insurer canceled and sent again (a check made out wrong, say)
-  counts once, as the one sent again. Tick **Hide duplicates** to hide the ones left out because they repeat another
+  counts once, as the one sent again. Tick **Hide unchecked** to see only the payments that count (every one with its Count box ticked), or **Hide
+  duplicates** to hide the ones left out because they repeat another
   (the same payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
   goes in Set Up, under *Your insurers*.) **Held back** shows what your insurer's newest letter says it's still holding
   back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
