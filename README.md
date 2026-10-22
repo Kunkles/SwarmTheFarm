@@ -289,8 +289,10 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   retold by someone else (a forward, your adjuster, the lender) are listed as *From someone else: not counted*, so
   you can tick one if it should count. A payment your insurer canceled and sent again (a check made out wrong, say)
   counts once, as the one sent again. Tick **Hide unchecked** to see only the payments that count (every one with its Count box ticked), or **Hide
-  duplicates** to hide the ones left out because they repeat another
-  (the same payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
+  duplicates** to hide the ones left out because they repeat another (the same payment in another email, an older
+  total). **Print…**, **PDF…** and **Spreadsheet…** next to them print or save the whole page: the totals, Coverage A's
+  parts, your insurer's payment list, Coverage A in detail, and the payments as the list shows them. In the PDF, click a coverage's name for your policy's wording for
+  it (at the end); the spreadsheet has it on its own sheet, with your insurer's payment list. You can add a check that came by mail too. (Your insurance company's name
   goes in Set Up, under *Your insurers*.) **Held back** shows what your insurer's newest letter says it's still holding
   back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
   Your house and its other structures (garage, fences, landscaping) are paid together, so they show as one group,
