@@ -296,7 +296,9 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   **Coverage A** at State Farm. Its limit includes what your declarations page adds to it, each on its own line:
   debris removal, trees, an increased dwelling limit (Option ID), code upgrades (Option OL). Your insurer won't pay
   more than a limit, so if a coverage's payments come to more, **Left** says *Check payments*: a payment is probably
-  counted twice or under the wrong coverage. Below it, **Add Your Insurer's Estimate…** reads the
+  counted twice or under the wrong coverage. With your insurer's estimate added, each part shows what the estimate
+  pays on it and whether any of it is left: *Used up* (capped at its limit), *Paid in full* (more only if the cost
+  goes up), or the amount still available (like code upgrades, paid as you incur them). Below it, **Add Your Insurer's Estimate…** reads the
   estimate your insurer sent (the long one with a *Summary for…* page per part): what each part is worth, what's
   over your limits, the limits it used, and what it takes out until you've paid for it (*paid when incurred*: keep
   the receipts) or until it has more information, next to what's been paid.
