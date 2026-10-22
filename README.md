@@ -280,8 +280,10 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   *This helps you find your way around your policy. It isn't legal advice: your full policy is what counts.*
 - **Payments.** The payments your insurance company has made you, read from their emails, added up by coverage (your
   house, your belongings, living expenses) next to what you've spent, and, once you've added your policy, each
-  coverage's limit and what's left. Click **Find Payments in Email** to search your Gmail for every email from your
-  insurer since the loss and read the payments in them (the first time can take a while). Click a payment to see the
+  coverage's limit and what's left. Click **Find Payments in Email** to search your Gmail for the emails about your
+  insurer's payments since the loss, including forwards of its letters, your adjuster's notes and the lender's
+  loss-draft emails, and read the payments in them (the first time can take about an hour). Your claim number
+  (Settings › Claim, filled in for you from your insurer's emails) helps it find them. Click a payment to see the
   letter with the amount in it (and the email it came in) on the right, and to change it, leave it out, or delete it (**Show Deleted**, below the
   list, brings it back). Tick **Hide duplicates** to hide the ones left out because they repeat another (the same
   payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
