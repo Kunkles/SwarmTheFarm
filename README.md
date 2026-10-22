@@ -297,8 +297,8 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   debris removal, trees, an increased dwelling limit (Option ID), code upgrades (Option OL). Your insurer won't pay
   more than a limit, so if a coverage's payments come to more, **Left** says *Check payments*: a payment is probably
   counted twice or under the wrong coverage. With your insurer's estimate added, each part shows what the estimate
-  pays on it and whether any of it is left: *Used up* (capped at its limit), *Paid in full* (more only if the cost
-  goes up), or the amount still available (like code upgrades, paid as you incur them).
+  pays on it and what's left of its limit: *Used up* (capped at its limit), or the amount still there (like code
+  upgrades, paid as you incur them, or debris removal if there's more to haul away than the estimate has).
   **Add a Document From Your Insurer…** takes three kinds of document, and tells them apart: your insurer's own
   **list of its payments** (at State Farm, Claims Hub › Payments, printed to a PDF), which Swarm the Farm checks
   against the payments found in your emails (what's missing, what's extra, any canceled check) and then uses for the
