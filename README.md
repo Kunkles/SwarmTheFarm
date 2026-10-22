@@ -303,7 +303,9 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   **list of its payments** (at State Farm, Claims Hub › Payments, printed to a PDF), which Swarm the Farm checks
   against the payments found in your emails (what's missing, what's extra, any canceled check) and then uses for the
   totals; a **receipt of one payment** (its letter, a check stub, or a photo of either), read for the payment; and
-  its **estimate**. Below it, **Add Your Insurer's Estimate…** reads the
+  its **estimate**. State Farm's Claims Hub list and estimates are read from their text, exactly; another
+  insurer's layout, or a photo of a list, is read by the AI (it takes a few minutes), and its numbers are checked
+  against the page: anything that doesn't add up is listed with it to look at. Below it, **Add Your Insurer's Estimate…** reads the
   estimate your insurer sent (the long one with a *Summary for…* page per part): what each part is worth, what's
   over your limits, the limits it used, and what it takes out until you've paid for it (*paid when incurred*: keep
   the receipts) or until it has more information, next to what's been paid.
