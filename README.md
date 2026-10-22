@@ -285,8 +285,10 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   loss-draft emails, and read the payments in them (the first time can take about an hour). Your claim number
   (Settings › Claim, filled in for you from your insurer's emails) helps it find them. Click a payment to see the
   letter with the amount in it (and the email it came in) on the right, and to change it, leave it out, or delete it (**Show Deleted**, below the
-  list, brings it back). Tick **Hide duplicates** to hide the ones left out because they repeat another (the same
-  payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
+  list, brings it back). Only your insurance company's own emails count: the same payments
+  retold by someone else (a forward, your adjuster, the lender) are listed as *From someone else: not counted*, so
+  you can tick one if it should count. Tick **Hide duplicates** to hide the ones left out because they repeat another
+  (the same payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
   goes in Set Up, under *Your insurers*.) **Held back** shows what your insurer's newest letter says it's still holding
   back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
   *Payments is still being tested: the amounts are read from your emails automatically and can be wrong or missing,
