@@ -294,7 +294,8 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
   Your house and its other structures (garage, fences, landscaping) are paid together, so they show as one group,
   **Coverage A** at State Farm. Its limit includes what your declarations page adds to it, each on its own line:
-  debris removal, trees, an increased dwelling limit (Option ID), code upgrades (Option OL). Your insurer won't pay
+  debris removal, trees, an increased dwelling limit (Option ID), code upgrades (Option OL). Click any of them (or
+  Personal Property, Loss of Use) for your policy's own wording, with where your endorsements name it. Your insurer won't pay
   more than a limit, so if a coverage's payments come to more, **Left** says *Check payments*: a payment is probably
   counted twice or under the wrong coverage. With your insurer's estimate added, each part shows what the estimate
   pays on it and what's left of its limit: *Used up* (capped at its limit), or the amount still there (like code
