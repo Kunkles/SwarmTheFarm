@@ -285,7 +285,10 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   letter with the amount in it (and the email it came in) on the right, and to change it, leave it out, or delete it (**Show Deleted**, below the
   list, brings it back). Tick **Hide duplicates** to hide the ones left out because they repeat another (the same
   payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
-  goes in Set Up, under *Your insurers*.)
+  goes in Set Up, under *Your insurers*.) **Held back** shows what your insurer's newest letter says it's still holding
+  back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
+  *Payments is still being tested: the amounts are read from your emails automatically and can be wrong or missing,
+  so check them against your insurance company's letters.*
 - **Ask about your policy.** Type a question in your own words, like *How long will it pay for a place to live?*
   The answer comes from your policy's own words, with links to the parts it used. It takes about half a minute.
   You can ask follow-up questions, and everything you ask is kept, so you can scroll back to it later.
