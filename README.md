@@ -292,6 +292,12 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   (the same payment in another email, an older total). You can add a check that came by mail too. (Your insurance company's name
   goes in Set Up, under *Your insurers*.) **Held back** shows what your insurer's newest letter says it's still holding
   back on a coverage (recoverable depreciation, usually paid once you replace or repair); it isn't counted as paid.
+  Your house and its other structures (garage, fences, landscaping) are paid together, so they show as one group,
+  **Coverage A** at State Farm, with what your declarations page adds on top: debris removal, trees, an increased
+  dwelling limit (Option ID), code upgrades (Option OL). Below it, **Add Your Insurer's Estimate…** reads the
+  estimate your insurer sent (the long one with a *Summary for…* page per part): what each part is worth, what's
+  over your limits, the limits it used, and what it takes out until you've paid for it (*paid when incurred*: keep
+  the receipts) or until it has more information, next to what's been paid.
   *Payments is still being tested: the amounts are read from your emails automatically and can be wrong or missing,
   so check them against your insurance company's letters.*
 - **Ask about your policy.** Type a question in your own words, like *How long will it pay for a place to live?*
