@@ -29,6 +29,8 @@ Also have ready:
 - About **an hour**, and a good internet connection (the first setup downloads a lot).
 - **Your Mac's password**: the one you type when you turn the Mac on. The Mac may ask for it once.
 - Your **Gmail** password, in case Google asks you to sign in, and your **Amazon** password.
+- **Email at iCloud instead** (an address ending in **@icloud.com**, **@me.com** or **@mac.com**)? Have your
+  **Apple Account** password ready too: you'll use it to make a special password for Swarm the Farm (Part 4).
 
 Swarm the Farm checks these things too, and tells you in plain words if something's missing.
 
@@ -225,6 +227,25 @@ In the **Set Up** window, scroll down to **"3. Your accounts"**.
   **Allow**. (Google may say it *"hasn't verified this app"*: that's expected. Click **Continue**, or if you only see
   **Advanced**, click it and then **Go to Swarm the Farm**.)
   Swarm the Farm can only **read** your email. It can't send, change or delete anything.
+- **iCloud Mail** (an address ending in **@icloud.com**, **@me.com** or **@mac.com**): Apple doesn't let apps sign
+  in the way Google does, so you make a password just for Swarm the Farm. It takes about two minutes:
+  1. Click **Make an app-specific password…** under **iCloud Mail**. Your web browser opens
+     **account.apple.com**. Sign in with your Apple Account, the way you do on your iPhone.
+  2. Click **Sign-In and Security**, then **App-Specific Passwords**.
+  3. Click the **+** (or **Generate an app-specific password**), type **Swarm the Farm** as its name, and click
+     **Create**. Apple may ask for your Apple Account password again.
+  4. Apple shows the new password once: four groups of four letters with dashes between them. Click **Copy** (or
+     write it down exactly). It's only for Swarm the Farm, and it isn't your Apple Account password.
+  5. Back in Swarm the Farm, type your iCloud email address, paste that password into **App-specific password**,
+     and click **Connect**. After a few seconds iCloud Mail gets a green check mark.
+  > **"iCloud didn't take that email address and password"?** Check that you pasted the *app-specific* password
+  > (not your usual Apple Account password) and typed your whole iCloud address. Making a new one is fine.
+  > **No App-Specific Passwords there?** Your Apple Account needs **two-factor authentication** turned on first
+  > (most are). On your iPhone: Settings › your name › Sign-In & Security › Two-Factor Authentication.
+
+  Like Gmail, Swarm the Farm only **reads** your iCloud Mail: it can't send, change, move or delete anything, and it
+  doesn't even mark emails as read. The password is kept in your Mac's **Keychain**. To stop it working anywhere,
+  delete it on the same Apple page. You can connect Gmail, iCloud Mail or both; Find Receipts searches all of them.
 - **Amazon:** click **Connect**. A new window opens with instructions. Click **Continue to Amazon** and sign in
   **in that window** (not your usual web browser), the way you always do. Amazon's page says *Sign in or create
   account*: type the email you already use for Amazon. Don't make a new account.
