@@ -303,11 +303,14 @@ above) and **Coverages**. Click **Coverages** to see your insurance.
   counted twice or under the wrong coverage. With your insurer's estimate added, each part shows what the estimate
   pays on it and what's left of its limit: *Used up* (capped at its limit), or the amount still there (like code
   upgrades, paid as you incur them, or debris removal if there's more to haul away than the estimate has).
-  **Add a Document From Your Insurer…** takes three kinds of document, and tells them apart: your insurer's own
+  **Add a Document From Your Insurer…** takes four kinds of document, and tells them apart: your insurer's own
   **list of its payments** (at State Farm, Claims Hub › Payments, printed to a PDF), which Swarm the Farm checks
-  against the payments found in your emails (what's missing, what's extra, any canceled check) and then uses for the
-  totals; a **receipt of one payment** (its letter, a check stub, or a photo of either), read for the payment; and
-  its **estimate**. State Farm's Claims Hub list and estimates are read from their text, exactly; another
+  against the payments found in your emails (what's missing, what's extra, any canceled check, any check that hasn't
+  been cashed, and checks made out to your mortgage lender too) and then uses for the totals; its **Summary of
+  Loss** (the page with each coverage's limit, what's payable and the net payment still to come), whose own limits
+  and split of Coverage A (Option ID, debris removal, trees, code upgrades) are then used in the totals, with the
+  depreciation you can still recover and anything payable but not paid yet; a **receipt of one payment** (its
+  letter, a check stub, or a photo of either), read for the payment; and its **estimate**. State Farm's Claims Hub list and estimates are read from their text, exactly; another
   insurer's layout, or a photo of a list, is read by the AI (it takes a few minutes), and its numbers are checked
   against the page: anything that doesn't add up is listed with it to look at. Below it, **Add Your Insurer's Estimate…** reads the
   estimate your insurer sent (the long one with a *Summary for…* page per part): what each part is worth, what's
