@@ -289,6 +289,18 @@ it goes to **Deleted** in the list on the left, and **Put Back** returns it.
 
 When it's done, click **Export** (the square with an arrow) to make the file for your insurance adjuster.
 
+**What was in your home: Before the Loss.** Under **Historical** in the list on the left, **Before the Loss** searches
+your email from the years *before* the loss, as a record of what you owned. It's kept apart from your claim: nothing
+it finds is in your receipts, categories, totals, Payments or the claim's export.
+- Click **New Search…**. It ends on the date of the loss; choose how far back to start (**Years Back** has 1 to 20
+  years), and what to look for (**Contents** is ticked: furniture, clothes, electronics and the like).
+- **It takes a long time.** Every matching email is read by the AI on your Mac, one at a time: years of email can
+  mean many hours, or days. Keep the Mac plugged in with the lid open. You can keep using the app meanwhile.
+- **Stop** any time (or quit). **Continue** picks up where it stopped; nothing already read is read again.
+- Have your **Amazon data export**? **Import Amazon Data Export…** adds its orders from those years in seconds.
+- **Save Spreadsheet & PDFs…** makes a spreadsheet of everything found (every receipt, every item on its own row,
+  and the totals by year) with each receipt's PDF.
+
 **Your insurance: the Coverages side.** At the top of the window there are two buttons: **Receipts** (everything
 above) and **Coverages**. Click **Coverages** to see your insurance.
 
