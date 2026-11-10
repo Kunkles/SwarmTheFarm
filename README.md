@@ -300,7 +300,9 @@ Payments or the claim's export.
 - **It takes a long time.** Every matching email is read by the AI on your Mac, one at a time: years of email can
   mean many hours, or days. Keep the Mac plugged in with the lid open. You can keep using the app meanwhile.
 - **Stop** any time (or quit). **Continue** picks up where it stopped; nothing already read is read again.
-- Have your **Amazon data export**? **Import Amazon Data Export…** adds its orders from those years in seconds.
+- Have your **Amazon data export**? **Import Amazon Data Export…** adds its orders from those years in a few minutes
+  (the "Your Orders" zip, either the older layout or the one Amazon sends now). Whole Foods and Prime Now groceries
+  are left out (food isn't what was in your home); digital orders like ebooks aren't read.
 - Don't want a whole category in it (Utilities, say)? **Right-click** that category under **Before the Loss** and
   choose **Leave Out of Before the Loss**. Its receipts stay in the list, dimmed, but aren't counted or exported, nor
   are ones the search finds later. **Include Again** puts it back.
